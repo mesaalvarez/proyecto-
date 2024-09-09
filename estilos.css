@@ -16,7 +16,11 @@ body{
     
 
 }
-
+.imgt3{
+    width: 700px;
+    height: 300px;
+    background-image: url("png.webp");
+}
 
 
 
